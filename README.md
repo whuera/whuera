@@ -1,28 +1,40 @@
-# Hola, soy William Huera (whuera)
+# whuera
 
-**Architect Transactional & Solutions Cloud** en [Mobilpymes](https://www.mobilpymes.cl) - Quito, Ecuador
+> Memorable developer positioning.
 
-Diseno e implemento arquitecturas de microservicios transaccionales, con foco en soluciones cloud escalables sobre AWS y Azure.
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-## Stack principal
+## Header
+Hi, I'm **whuera**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=whuera&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=whuera&theme=github-dark" alt="whuera hero section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=whuera&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=whuera&theme=github-dark" alt="whuera stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=whuera&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=whuera&theme=github-dark" alt="whuera projects section" />
+  </picture>
+</p>
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=whuera&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=whuera&theme=github-dark" alt="whuera social section" />
+  </picture>
+</p>
 
-- **Backend:** Java, Spring Boot, microservicios
-- **Frontend:** Angular, React
-- **Cloud:** AWS (ECS/Fargate, Amplify, S3), Azure
-- **Contenedores:** Docker
-- **Bases de datos:** MySQL
-- **Otros:** Config Server, arquitecturas distribuidas, CI/CD
-
-## Proyectos destacados
-
-- [app-shopping-cart](https://github.com/whuera/app-shopping-cart) - Backend de microservicios (Customers, Products, Checkout, Shopping Cart) en Spring Boot, desplegado en AWS Fargate con frontend de pruebas en React.
-- [azure-app-shopping-cart](https://github.com/whuera/azure-app-shopping-cart) - Misma solucion de ecommerce adaptada a despliegue en Azure, mostrando arquitectura multicloud.
-- [config-server](https://github.com/whuera/config-server) - Servidor de configuracion centralizado para arquitecturas de microservicios.
-- [FrontEndPowerFac](https://github.com/whuera/FrontEndPowerFac) - Frontend en Angular 4 consumiendo servicios REST de un backend en Spring Boot.
-
-## Contacto
-
-- LinkedIn: [in/williamhuera](https://linkedin.com/in/williamhuera)
-- Twitter/X: [@WilliamHuera](https://twitter.com/WilliamHuera)
-- Web: [www.mobilpymes.cl](https://www.mobilpymes.cl)
-- Email: whuera@gmail.com
+<!-- Sections: Header, GitHub Stats, Projects, Connect -->
