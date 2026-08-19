@@ -1,17 +1,35 @@
-# whuera
+# Hi 👋, I'm William Huera
+
+### Transactional Architect
+
+- 🔭 I'm currently working on **Mobilpymes**
+
+- 🌱 I'm currently learning **Machine Learning**
+
+- 📫 How to reach me **whuera@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://mobilpymes.cl](https://mobilpymes.cl)**
+
+- 📝 I regularly write articles on **[https://www.mobilpymes.cl](https://www.mobilpymes.cl)**
+
+- 📄 Know about my experiences **[https://whuera.github.io/](https://whuera.github.io/)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/whuera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="whuera" height="30" width="40" /></a>
+<a href="https://dev.to/whuera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="whuera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/williamhuera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamhuera" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/whuera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="whuera" height="30" width="40" /></a>
+<a href="https://kaggle.com/whuera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="whuera" height="30" width="40" /></a>
+<a href="https://twitter.com/WilliamHuera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="WilliamHuera" height="30" width="40" /></a>
+</p>
+
 
 > Memorable developer positioning.
 
 **Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
-## Header
-Hi, I'm **whuera**. This README is tuned for **personal brand** with a GitHub visual system.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=whuera&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=whuera&theme=github-dark" alt="whuera hero section" />
-  </picture>
-</p>
+
 ## GitHub Stats
 GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
