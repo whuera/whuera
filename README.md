@@ -1,6 +1,7 @@
 # Hi 👋, I'm William Huera
 
 ### Transactional Architect
+Senior Transactional Architect ACI Base24 eps · UPF | Project Manager | Tech Lead | Visa · Mastercard · ISO 8583 | Cloud Solutions Architect | IA Engineer | Solution Architect | Senior Java · Python · C++ · Base24 Dev
 
 - 🔭 I'm currently working on **Mobilpymes**
 
