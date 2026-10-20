@@ -14,6 +14,13 @@ Senior Transactional Architect ACI Base24 eps · UPF | Project Manager | Tech Le
 - 📝 I regularly write articles on **[https://www.mobilpymes.cl](https://www.mobilpymes.cl)**
 
 - 📄 Know about my experiences **[https://whuera.github.io/](https://whuera.github.io/)**
+- IA Projects:
+- **[https://dronex.mobilpymes.store/](https://dronex.mobilpymes.store/)**
+- **[https://orbix.mobilpymes.store/](https://orbix.mobilpymes.store/)**
+
+- Integration Projects
+- **[https://www.mobilpymes.store/](https://www.mobilpymes.store/)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
